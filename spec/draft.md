@@ -11,6 +11,7 @@
 - [MIME Type](#mime-type)
 - [Extensibility model](#extensibility-model)
 - [Recommendations](#recommendations)
+  - [Text length](#text-length)
   - [Number of stories](#number-of-stories)
   - [Conditional GET](#conditional-get)
   - [Cross-origin resource sharing (CORS)](#cross-origin-resource-sharing-cors)
@@ -140,6 +141,10 @@ The [Yet to be named][0] feed must always be served using `application/[PREFIX]+
 TODO . See [#2](https://github.com/z0al/naming-is-hard/issues/2)
 
 # Recommendations
+
+## Text length
+
+It's recommended that the `text` length shouldn't be more than 1000 characters. If it's more than that, then maybe it should be a blog post? and then use available RSS-like formats.
 
 ## Number of stories
 
