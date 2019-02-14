@@ -1,3 +1,11 @@
+<center>
+
+![xkcd standards](./assets/standards.png)
+
+https://xkcd.com/927
+
+</center>
+
 ## The problem
 
 Based on this 👇 (and other similar posts but I can't find them) I think we need a format similar to RSS/ATOM so people can use a more private platform (e.g. their websites) to publish and share notes.
