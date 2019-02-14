@@ -21,7 +21,7 @@ Based on this 👇 (and other similar posts but I can't find them) I think we ne
 
 ## The Proposal
 
-See the [specification draft](./spec/v1.md)
+See the [specification draft](./spec/draft.md).
 
 ## Goal
 
