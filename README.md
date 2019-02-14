@@ -1,10 +1,10 @@
-<center>
+<div style="text-align: center">
 
-![xkcd standards](./assets/standards.png)
+  <img src="https://imgs.xkcd.com/comics/standards.png" title="Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit." alt="Standards">
 
-https://xkcd.com/927
+<a href="https://xkcd.com/927">https://xkcd.com/927</a>
 
-</center>
+</div>
 
 ## The problem
 
